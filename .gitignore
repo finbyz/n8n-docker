@@ -1,0 +1,4 @@
+# Ignore environment files
+.env
+# Ignore nginx configuration files
+nginx/n8n.conf
